@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajay Bansode</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently working as **Software Developer at Pi Techniques Pvt. Ltd. | Ex-Thyrocare.**
+- 🌱 I’m currently working as **Software Developer at Pi Techniques Pvt. Ltd..**
 - 🌱 I’m currently learning **React Js.**
 
 - 📫 How to reach me **bansodetechsolution@gmail.com**
